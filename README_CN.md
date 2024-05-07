@@ -11,7 +11,7 @@
 1. **克隆仓库**:
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/KernelKraze/Sqrt2Approximator.git
    ```
 
 2. **编译程序**:
@@ -23,7 +23,7 @@
 3. **运行程序**:
 
    ```
-   ./sqrt2
+   ./bin/sqrt2
    ```
 
 #### 📄 文件结构

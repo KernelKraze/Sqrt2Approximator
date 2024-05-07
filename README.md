@@ -12,7 +12,7 @@ This repository contains a program for calculating approximate values of square 
 1. **Clone the Repository**:
 
    ```
-   git clone <repository-url>
+   git clone https://github.com/KernelKraze/Sqrt2Approximator.git
    ```
 
 2. **Compile the Program**:
@@ -24,7 +24,7 @@ This repository contains a program for calculating approximate values of square 
 3. **Run the Program**:
 
    ```
-   ./sqrt2
+   ./bin/sqrt2
    ```
 
 #### 📄 File Structure
